@@ -1,0 +1,5 @@
+parameter,expected_value,tolerance
+brightness,120,20
+width,1920,0
+height,1080,0
+sharpness,150,50
